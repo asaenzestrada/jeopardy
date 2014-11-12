@@ -2,7 +2,7 @@
   [
     {
      "Categoria": "Cetys",
-     "preguntas": [
+     "Preguntas": [
      {"Pregunta":"Cual es el nombre de la Asistente del Director del Colegio de Ingenieria?",
        "opciones": [
           {
@@ -19,83 +19,83 @@
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Cuales son los 6 valores del Código de Honor Cetys?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Oprah, Oprah Delgada, Oprah Gorda, Oprah Feliz, Oprah Horny y Oprah's Favorite Things"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Libertad, Justicia, Lo Correcto, Belleza, Bien, Religion"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Amor, Cafe, Drogas, Sexo, Tachas y Perico"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "Libertad, Justicia, Verdad, Belleza, Bien, Espiritualidad", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Cual NO es un servicio del CEDE?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Asesorias"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Atencion Psicologica"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Atencion Academica"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "Tacos de Birria el sabado pa la cruda", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Que dia cierra temprano Sorteos?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Jueves"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Nunca trabajan", "Correcta":"True"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Cuando se les antoja"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "Sabado", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Cual es el nombre de la Presidenta actual de CETYS Campus Tijuana?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Juana Ibarra"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Jessica Nigri"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "J-Lo"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "J Ibarra", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Cuantos niveles de Ingles hay?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Ningunos, los acredite"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "3"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "42"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "5", "Correcta":"True"
           }
         ]
       },
