@@ -79,7 +79,7 @@
             "opcion": "J-Lo"
           },
           {
-            "opcion": "J Ibarra", "Correcta":"True"
+            "opcion": "Jessica Ibarra", "Correcta":"True"
           }
         ]
       },
@@ -99,152 +99,153 @@
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"En que edificio tomamos clases?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "JHBFABCJWBCKWEB4582"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "B52"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "E3"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "E4", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"En que año fue fundado CETYS Universidad?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "1981"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "1967"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Año del Caldo"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "1961", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Cunato costo construir el nuevo auditorio de CETYS Universidad Campus Tijuana?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "7 Millones de Dolares"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "El cambio colectivo de sexto semestre de IDGD"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "4 Millones de Dolares"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "5 Millones de Dolares", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Cual fue el primer Campus de CETYS Universidad",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Campus Tjuana"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Campus Ensenada"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Campus Tepito"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "Campus Mexicali", "Correcta":"True"
           }
         ]
       },
       ]
     },
     {
-     "Categoria": "Cetys",
+     "Categoria": "ICC",
      "preguntas": [
-     {"Pregunta":"VBBBkbk",
+     {"Pregunta":"En qué año se lanzó la primer computadora comercial?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "2042"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "1984"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "1954"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "1951", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Cual fue el primer lenguaje de alto nivel?
+",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "LISP"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Heskel"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "C"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "Fortran", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Orden de Organizacion Computacional",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": ""
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Aplicaciones, Sistema Operativa, Firmware, Kernel, Hardware"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Hardware, Kernel, Firmware, Sistema Operativa, Aplicaciones"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "Hardware, Firmware, Kernel, Sistema Operativa, Aplicaciones", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"Por qué se llama Python?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Se le dio la gana"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Por que el estilo de programacion simula una serpiente mmoviendose"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Por que el creador tenia todo un Python"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "Porque los creadores eran fanáticos de Monty Python's Flying Circus", "Correcta":"True"
           }
         ]
       },
-      {"Pregunta":"VBBBkbk",
+      {"Pregunta":"De donde se cree que viene el logo de Apple?",
        "opciones": [
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "Por ser simbolo de inmortalidad"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "De la manzana de Discordia"
           },
           {
-            "opcion": "XYXYXYXYXYXY"
+            "opcion": "De un interes en Blanca Nieves"
           },
           {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
+            "opcion": "De la manzana con que se suicidó Alan Turing.", "Correcta":"True"
           }
         ]
       },
