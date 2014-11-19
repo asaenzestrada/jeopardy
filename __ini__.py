@@ -5,4 +5,6 @@ source = 'Assets/opciones.json'
 
 
 # =====    Game flow   =====
-questions = functions.Functions.handleJson('Assets/opciones.json')
+questions = functions.Functions.handleJson(source)
+
+print (questions)

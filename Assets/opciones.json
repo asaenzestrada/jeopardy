@@ -1,1655 +1,1855 @@
-{ "q":
-  [
-    {
-     "Categoria": "Cetys",
-     "Preguntas": [
-     {"Pregunta":"Cual es el nombre de la Asistente del Director del Colegio de Ingenieria?",
-       "opciones": [
-          {
-            "opcion": "Maria Lopez Melandez"
-          },
-          {
-            "opcion": "Carmen Salinaz"
-          },
-          {
-            "opcion": "Oprah Winfrey"
-          },
-          {
-            "opcion": "Maria Lopez Mendez", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Cuales son los 6 valores del Código de Honor Cetys?",
-       "opciones": [
-          {
-            "opcion": "Oprah, Oprah Delgada, Oprah Gorda, Oprah Feliz, Oprah Horny y Oprah's Favorite Things"
-          },
-          {
-            "opcion": "Libertad, Justicia, Lo Correcto, Belleza, Bien, Religion"
-          },
-          {
-            "opcion": "Amor, Cafe, Drogas, Sexo, Tachas y Perico"
-          },
-          {
-            "opcion": "Libertad, Justicia, Verdad, Belleza, Bien, Espiritualidad", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Cual NO es un servicio del CEDE?",
-       "opciones": [
-          {
-            "opcion": "Asesorias"
-          },
-          {
-            "opcion": "Atencion Psicologica"
-          },
-          {
-            "opcion": "Atencion Academica"
-          },
-          {
-            "opcion": "Tacos de Birria el sabado pa la cruda", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Que dia cierra temprano Sorteos?",
-       "opciones": [
-          {
-            "opcion": "Jueves"
-          },
-          {
-            "opcion": "Nunca trabajan", "Correcta":"True"
-          },
-          {
-            "opcion": "Cuando se les antoja"
-          },
-          {
-            "opcion": "Sabado", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Cual es el nombre de la Presidenta actual de CETYS Campus Tijuana?",
-       "opciones": [
-          {
-            "opcion": "Juana Ibarra"
-          },
-          {
-            "opcion": "Jessica Nigri"
-          },
-          {
-            "opcion": "J-Lo"
-          },
-          {
-            "opcion": "Jessica Ibarra", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Cuantos niveles de Ingles hay?",
-       "opciones": [
-          {
-            "opcion": "Ningunos, los acredite"
-          },
-          {
-            "opcion": "3"
-          },
-          {
-            "opcion": "42"
-          },
-          {
-            "opcion": "5", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"En que edificio tomamos clases?",
-       "opciones": [
-          {
-            "opcion": "JHBFABCJWBCKWEB4582"
-          },
-          {
-            "opcion": "B52"
-          },
-          {
-            "opcion": "E3"
-          },
-          {
-            "opcion": "E4", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"En que año fue fundado CETYS Universidad?",
-       "opciones": [
-          {
-            "opcion": "1981"
-          },
-          {
-            "opcion": "1967"
-          },
-          {
-            "opcion": "Año del Caldo"
-          },
-          {
-            "opcion": "1961", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Cunato costo construir el nuevo auditorio de CETYS Universidad Campus Tijuana?",
-       "opciones": [
-          {
-            "opcion": "7 Millones de Dolares"
-          },
-          {
-            "opcion": "El cambio colectivo de sexto semestre de IDGD"
-          },
-          {
-            "opcion": "4 Millones de Dolares"
-          },
-          {
-            "opcion": "5 Millones de Dolares", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Cual fue el primer Campus de CETYS Universidad",
-       "opciones": [
-          {
-            "opcion": "Campus Tjuana"
-          },
-          {
-            "opcion": "Campus Ensenada"
-          },
-          {
-            "opcion": "Campus Tepito"
-          },
-          {
-            "opcion": "Campus Mexicali", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "ICC",
-     "preguntas": [
-     {"Pregunta":"En qué año se lanzó la primer computadora comercial?",
-       "opciones": [
-          {
-            "opcion": "2042"
-          },
-          {
-            "opcion": "1984"
-          },
-          {
-            "opcion": "1954"
-          },
-          {
-            "opcion": "1951", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Cual fue el primer lenguaje de alto nivel?
-",
-       "opciones": [
-          {
-            "opcion": "LISP"
-          },
-          {
-            "opcion": "Heskel"
-          },
-          {
-            "opcion": "C"
-          },
-          {
-            "opcion": "Fortran", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Orden de Organizacion Computacional",
-       "opciones": [
-          {
-            "opcion": ""
-          },
-          {
-            "opcion": "Aplicaciones, Sistema Operativa, Firmware, Kernel, Hardware"
-          },
-          {
-            "opcion": "Hardware, Kernel, Firmware, Sistema Operativa, Aplicaciones"
-          },
-          {
-            "opcion": "Hardware, Firmware, Kernel, Sistema Operativa, Aplicaciones", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"Por qué se llama Python?",
-       "opciones": [
-          {
-            "opcion": "Se le dio la gana"
-          },
-          {
-            "opcion": "Por que el estilo de programacion simula una serpiente mmoviendose"
-          },
-          {
-            "opcion": "Por que el creador tenia todo un Python"
-          },
-          {
-            "opcion": "Porque los creadores eran fanáticos de Monty Python's Flying Circus", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"De donde se cree que viene el logo de Apple?",
-       "opciones": [
-          {
-            "opcion": "Por ser simbolo de inmortalidad"
-          },
-          {
-            "opcion": "De la manzana de Discordia"
-          },
-          {
-            "opcion": "De un interes en Blanca Nieves"
-          },
-          {
-            "opcion": "De la manzana con que se suicidó Alan Turing.", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-    {
-     "Categoria": "Cetys",
-     "preguntas": [
-     {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      {"Pregunta":"VBBBkbk",
-       "opciones": [
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY"
-          },
-          {
-            "opcion": "XYXYXYXYXYXY", "Correcta":"True"
-          }
-        ]
-      },
-      ]
-    },
-  ]
+{
+    "q": [
+        {
+            "Categoria": "Cetys",
+            "Preguntas": [
+                {
+                    "Pregunta": "Cual es el nombre de la Asistente del Director del Colegio de Ingenieria?",
+                    "opciones": [
+                        {
+                            "opcion": "Maria Lopez Melandez"
+                        },
+                        {
+                            "opcion": "Carmen Salinaz"
+                        },
+                        {
+                            "opcion": "Oprah Winfrey"
+                        },
+                        {
+                            "opcion": "Maria Lopez Mendez",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Cuales son los 6 valores del Código de Honor Cetys?",
+                    "opciones": [
+                        {
+                            "opcion": "Oprah, Oprah Delgada, Oprah Gorda, Oprah Feliz, Oprah Horny y Oprah's Favorite Things"
+                        },
+                        {
+                            "opcion": "Libertad, Justicia, Lo Correcto, Belleza, Bien, Religion"
+                        },
+                        {
+                            "opcion": "Amor, Cafe, Drogas, Sexo, Tachas y Perico"
+                        },
+                        {
+                            "opcion": "Libertad, Justicia, Verdad, Belleza, Bien, Espiritualidad",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Cual NO es un servicio del CEDE?",
+                    "opciones": [
+                        {
+                            "opcion": "Asesorias"
+                        },
+                        {
+                            "opcion": "Atencion Psicologica"
+                        },
+                        {
+                            "opcion": "Atencion Academica"
+                        },
+                        {
+                            "opcion": "Tacos de Birria el sabado pa la cruda",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Que dia cierra temprano Sorteos?",
+                    "opciones": [
+                        {
+                            "opcion": "Jueves"
+                        },
+                        {
+                            "opcion": "Nunca trabajan",
+                            "Correcta": "True"
+                        },
+                        {
+                            "opcion": "Cuando se les antoja"
+                        },
+                        {
+                            "opcion": "Sabado",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Cual es el nombre de la Presidenta actual de CETYS Campus Tijuana?",
+                    "opciones": [
+                        {
+                            "opcion": "Juana Ibarra"
+                        },
+                        {
+                            "opcion": "Jessica Nigri"
+                        },
+                        {
+                            "opcion": "J-Lo"
+                        },
+                        {
+                            "opcion": "Jessica Ibarra",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Cuantos niveles de Ingles hay?",
+                    "opciones": [
+                        {
+                            "opcion": "Ningunos, los acredite"
+                        },
+                        {
+                            "opcion": "3"
+                        },
+                        {
+                            "opcion": "42"
+                        },
+                        {
+                            "opcion": "5",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "En que edificio tomamos clases?",
+                    "opciones": [
+                        {
+                            "opcion": "JHBFABCJWBCKWEB4582"
+                        },
+                        {
+                            "opcion": "B52"
+                        },
+                        {
+                            "opcion": "E3"
+                        },
+                        {
+                            "opcion": "E4",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "En que año fue fundado CETYS Universidad?",
+                    "opciones": [
+                        {
+                            "opcion": "1981"
+                        },
+                        {
+                            "opcion": "1967"
+                        },
+                        {
+                            "opcion": "Año del Caldo"
+                        },
+                        {
+                            "opcion": "1961",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Cunato costo construir el nuevo auditorio de CETYS Universidad Campus Tijuana?",
+                    "opciones": [
+                        {
+                            "opcion": "7 Millones de Dolares"
+                        },
+                        {
+                            "opcion": "El cambio colectivo de sexto semestre de IDGD"
+                        },
+                        {
+                            "opcion": "4 Millones de Dolares"
+                        },
+                        {
+                            "opcion": "5 Millones de Dolares",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Cual fue el primer Campus de CETYS Universidad",
+                    "opciones": [
+                        {
+                            "opcion": "Campus Tjuana"
+                        },
+                        {
+                            "opcion": "Campus Ensenada"
+                        },
+                        {
+                            "opcion": "Campus Tepito"
+                        },
+                        {
+                            "opcion": "Campus Mexicali",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "ICC",
+            "preguntas": [
+                {
+                    "Pregunta": "En qué año se lanzó la primer computadora comercial?",
+                    "opciones": [
+                        {
+                            "opcion": "2042"
+                        },
+                        {
+                            "opcion": "1984"
+                        },
+                        {
+                            "opcion": "1954"
+                        },
+                        {
+                            "opcion": "1951",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Cual fue el primer lenguaje de alto nivel?",
+                    "opciones": [
+                        {
+                            "opcion": "LISP"
+                        },
+                        {
+                            "opcion": "Heskel"
+                        },
+                        {
+                            "opcion": "C"
+                        },
+                        {
+                            "opcion": "Fortran",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Orden de Organizacion Computacional",
+                    "opciones": [
+                        {
+                            "opcion": ""
+                        },
+                        {
+                            "opcion": "Aplicaciones, Sistema Operativa, Firmware, Kernel, Hardware"
+                        },
+                        {
+                            "opcion": "Hardware, Kernel, Firmware, Sistema Operativa, Aplicaciones"
+                        },
+                        {
+                            "opcion": "Hardware, Firmware, Kernel, Sistema Operativa, Aplicaciones",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Por qué se llama Python?",
+                    "opciones": [
+                        {
+                            "opcion": "Se le dio la gana"
+                        },
+                        {
+                            "opcion": "Por que el estilo de programacion simula una serpiente mmoviendose"
+                        },
+                        {
+                            "opcion": "Por que el creador tenia todo un Python"
+                        },
+                        {
+                            "opcion": "Porque los creadores eran fanáticos de Monty Python's Flying Circus",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "De donde se cree que viene el logo de Apple?",
+                    "opciones": [
+                        {
+                            "opcion": "Por ser simbolo de inmortalidad"
+                        },
+                        {
+                            "opcion": "De la manzana de Discordia"
+                        },
+                        {
+                            "opcion": "De un interes en Blanca Nieves"
+                        },
+                        {
+                            "opcion": "De la manzana con que se suicidó Alan Turing.",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Cetys",
+            "preguntas": [
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "VBBBkbk",
+                    "opciones": [
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY"
+                        },
+                        {
+                            "opcion": "XYXYXYXYXYXY",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
