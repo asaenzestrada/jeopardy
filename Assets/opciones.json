@@ -280,222 +280,37 @@
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "COmo se llamo el precursor a lo que hoy llamamos Internet",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Kleinroch"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "WAN"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "LAN"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "ARPANET",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Donde se monto el precursor al internet ",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Harvard"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "MIT"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Stanford"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Categoria": "Cetys",
-            "preguntas": [
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
-                            "Correcta": "True"
-                        }
-                    ]
-                },
-                {
-                    "Pregunta": "VBBBkbk",
-                    "opciones": [
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY"
-                        },
-                        {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "UCLA",
                             "Correcta": "True"
                         }
                     ]
@@ -557,40 +372,225 @@
             ]
         },
         {
-            "Categoria": "Cetys",
+            "Categoria": "Dramas",
             "preguntas": [
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cual actor o actriz se llevo un oscar por participar en la adaptacion de Misery",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Lauren Bacall"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Richard Farnsworth"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "James Caan"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Kahty Bates",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cual de las siguientes novelas de Stephen king NO ha tenido una adaptacion a pelicula",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Misery"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Shinning"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Carrie"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Ur",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Drama protagonizado por Robin WIlliams, Matt Damon y Ben Affleck",
+                    "opciones": [
+                        {
+                            "opcion": "Dead Poet's Society"
+                        },
+                        {
+                            "opcion": "Patch Addams"
+                        },
+                        {
+                            "opcion": "Good Morning Vietnam"
+                        },
+                        {
+                            "opcion": "Good Will Hunting",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Esta pelicula es considerada el origen del formato de pelicula moderna ademas de ser considerada la mejor pelicula de todos los tiempos",
+                    "opciones": [
+                        {
+                            "opcion": "All About Eve"
+                        },
+                        {
+                            "opcion": "The Godfather Part I"
+                        },
+                        {
+                            "opcion": "Casa Blanca"
+                        },
+                        {
+                            "opcion": "Citizen Kane",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Esta adaptacion de Stephen King fue la primera en no ser introducida como una serie corta",
+                    "opciones": [
+                        {
+                            "opcion": "Full Metal"
+                        },
+                        {
+                            "opcion": "Carrie"
+                        },
+                        {
+                            "opcion": "It"
+                        },
+                        {
+                            "opcion": "The Shining",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Esta historia de Roald Dahl ha recibido recientemente un musical en Broadwat",
+                    "opciones": [
+                        {
+                            "opcion": "Gremlins"
+                        },
+                        {
+                            "opcion": "The Witches"
+                        },
+                        {
+                            "opcion": "Charlie and the CHocolate Factory"
+                        },
+                        {
+                            "opcion": "Matilda",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Esta joven actriz protagoniso en varias peliculas en su infancia entre ellas Matilda y Miracle on 34th Street",
+                    "opciones": [
+                        {
+                            "opcion": "Judy Garland"
+                        },
+                        {
+                            "opcion": "Christine Chonowith"
+                        },
+                        {
+                            "opcion": "Lindsay Ellis"
+                        },
+                        {
+                            "opcion": "Mara Wilson",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "Este actor es reconocido principalmente por dos roles uno como el superheroe mas amigable de Nueva York y como uno de los fundadores de Facebook",
+                    "opciones": [
+                        {
+                            "opcion": "Jesse Eissenberg"
+                        },
+                        {
+                            "opcion": "Jamie Foxx"
+                        },
+                        {
+                            "opcion": "Toby McGuire"
+                        },
+                        {
+                            "opcion": "Andrew Garfield",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "De acuerdo a Stephen King, cual es la tematica secreta de Carrie?",
+                    "opciones": [
+                        {
+                            "opcion": "La posibilidad de la telekinesis"
+                        },
+                        {
+                            "opcion": "El miedo de los adultos al crecimiento adolescente"
+                        },
+                        {
+                            "opcion": "Ninguno"
+                        },
+                        {
+                            "opcion": "El temor masculino del amanecer sexual de una joven adolescente",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "En Avatar cual es el nombre del mineral unico y precioso que se encontraba en Pandora",
+                    "opciones": [
+                        {
+                            "opcion": "Adamantium"
+                        },
+                        {
+                            "opcion": "Element Zero"
+                        },
+                        {
+                            "opcion": "Silverite"
+                        },
+                        {
+                            "opcion": "unobtanium",
+                            "Correcta": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Categoria": "Animacion",
+            "preguntas": [
+                {
+                    "Pregunta": "Quien es la voz de la lider de las Hienas en Lion King",
+                    "opciones": [
+                        {
+                            "opcion": "Rihanna"
+                        },
+                        {
+                            "opcion": "Wanda Zykes"
+                        },
+                        {
+                            "opcion": "Halley Berry"
+                        },
+                        {
+                            "opcion": "Whoopi Goldberg",
+                            "Correcta": "True"
+                        }
+                    ]
+                },
+                {
+                    "Pregunta": "EN la pelicula Toy Story 3 que le dice Woody a quien a Zigg",
+                    "opciones": [
+                        {
+                            "opcion": "Soy tu padre"
+                        },
+                        {
+                            "opcion": "AL infinito y mas alla"
+                        },
+                        {
+                            "opcion": "Se un niño feliz"
+                        },
+                        {
+                            "opcion": "Juega bonito Zigg",
                             "Correcta": "True"
                         }
                     ]
