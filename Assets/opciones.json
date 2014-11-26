@@ -411,7 +411,7 @@
                     ]
                 },
                 {
-                    "Pregunta": "Drama protagi=onizado por Robin WIlliams, Matt Damon y Ben Affleck",
+                    "Pregunta": "Drama protagonizado por Robin WIlliams, Matt Damon y Ben Affleck",
                     "opciones": [
                         {
                             "opcion": "Dead Poet's Society"
@@ -429,127 +429,127 @@
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Esta pelicula es considerada el origen del formato de pelicula moderna ademas de ser considerada la mejor pelicula de todos los tiempos",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "All About Eve"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Godfather Part I"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Casa Blanca"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Citizen Kane",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Esta adaptacion de Stephen King fue la primera en no ser introducida como una serie corta",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Full Metal"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Carrie"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "It"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "The Shining",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Esta historia de Roald Dahl ha recibido recientemente un musical en Broadwat",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Gremlins"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Witches"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Charlie and the CHocolate Factory"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Matilda",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Esta joven actriz protagoniso en varias peliculas en su infancia entre ellas Matilda y Miracle on 34th Street",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Judy Garland"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Christine Chonowith"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Lindsay Ellis"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Mara Wilson",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Este actor es reconocido principalmente por dos roles uno como el superheroe mas amigable de Nueva York y como uno de los fundadores de Facebook",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Jesse Eissenberg"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Jamie Foxx"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Toby McGuire"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Andrew Garfield",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "De acuerdo a Stephen King, cual es la tematica secreta de Carrie?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "La posibilidad de la telekinesis"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "El miedo de los adultos al crecimiento adolescente"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Ninguno"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "El temor masculino del amanecer sexual de una joven adolescente",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "En Avatar cual es el nombre del mineral unico y precioso que se encontraba en Pandora",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Adamantium"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Element Zero"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Silverite"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "unobtanium",
                             "Correcta": "True"
                         }
                     ]
@@ -557,40 +557,40 @@
             ]
         },
         {
-            "Categoria": "Cetys",
+            "Categoria": "Animacion,
             "preguntas": [
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Quien es la voz de la lider de las Hienas en Lion King",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Rihanna"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Wanda Zykes"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Halley Berry"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Whoopi Goldberg",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "EN la pelicula Toy Story 3 que le dice Woody a quien a Zigg",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Soy tu padre"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "AL infinito y mas alla"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Se un niño feliz"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Juega bonito Zigg",
                             "Correcta": "True"
                         }
                     ]
