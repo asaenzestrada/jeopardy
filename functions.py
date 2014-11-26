@@ -3,7 +3,6 @@ import json
 
 
 class Functions():
-
     def isset(variable):
         """
         @asaenz
@@ -22,7 +21,18 @@ class Functions():
         :param jsonPath:
         :return:
         """
-        jsonData = open(jsonPath).read()
+
+        # Se utiliza opne() para abrir el fichero JSON como texto plano. Los parámetros significan:
+        #'r' -> abrir en modo SOLO LECTURA
+        #'-1' -> no crear Buffer
+        # 'UTF-8' -> es la codificación del archivo.
+        jsonData = open(jsonPath, 'r', -1, 'UTF-8').read()
+
         myJson = json.loads(jsonData)
 
         return myJson
+
+    def gameInit(self):
+
+
+        return False
