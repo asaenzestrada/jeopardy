@@ -2,7 +2,7 @@
     "q": [
         {
             "Categoria": "Cetys",
-            "Preguntas": [
+            "preguntas": [
                 {
                     "Pregunta": "Cual es el nombre de la Asistente del Director del Colegio de Ingenieria?",
                     "opciones": [

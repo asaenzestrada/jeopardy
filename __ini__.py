@@ -1,10 +1,13 @@
 import functions
+import player
+import Game
 
-# =====    Control variables   =====
-source = 'Assets/opciones.json'
 
+questions = functions.Functions.handleJson('Assets/opciones.json')
 
-# =====    Game flow   =====
-questions = functions.Functions.handleJson(source)
+player1 = player.Player
+player1.createUser()
 
-print (questions)
+print("Bienvenido, " + player1.name + "\n Espero que estes listijirijillo para jugar!\n")
+
+jeopardy = Game.Game.GameFlow(player1, questions)
