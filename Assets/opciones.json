@@ -578,13 +578,13 @@
                     ]
                 },
                 {
-                    "Pregunta": "EN la pelicula Toy Story 3 que le dice Woody a quien a Zigg",
+                    "Pregunta": "En la pelicula Toy Story 3 que le dice Woody a Zigg",
                     "opciones": [
                         {
                             "opcion": "Soy tu padre"
                         },
                         {
-                            "opcion": "AL infinito y mas alla"
+                            "opcion": "Al infinito y mas alla"
                         },
                         {
                             "opcion": "Se un niño feliz"
@@ -596,37 +596,37 @@
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Que pelicula de pokemon tienen una historia semejante a una historia de P.H. Lovecraft",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Pokemon la Pelicula"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Pokemon La Pelicula 2000"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Pokemon: Guerreros por el Teimpo "
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Pokemon: Entei y el misterio de los Unown",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "En la pelicula The Iron Giant, que superheroe es una inspiracion para el Gigante?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Steel"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Batman"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Iron Man"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Superman",
                             "Correcta": "True"
                         }
                     ]
