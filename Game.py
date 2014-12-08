@@ -22,15 +22,16 @@ class Game:
 
             title = "Jeopardy SuperCool de ICC"
             choice = eg.choicebox(msg, title, cats)
-
-
+            Game.showQuestion(questions, choice)
             Game.status = False
         return Game.status
 
     def showQuestion(questions, category):
         choices = list()
-        for n in questions:
-            choices.append(n['value'])
+        for quest in questions[category]['preguntas']:
+            if not quest['answered']:
+                choices.append(quest['value'])
+
         image = category + ".gif"
-        msg = "Selecciona una pregunta"
+        msg = "Selecciona el valor de una pregunta"
         reply = eg.buttonbox(msg, image=image, choices=choices)

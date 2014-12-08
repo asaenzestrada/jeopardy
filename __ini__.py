@@ -4,7 +4,7 @@ import sys
 import player
 import Game
 
-questions = functions.Functions.handleJson('Assets/opciones.json')
+questions = functions.Functions.handleJson
 
 player1 = player.Player
 player1.createUser()

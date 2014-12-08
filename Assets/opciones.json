@@ -3,6 +3,8 @@
         "preguntas": [
             {
                 "Pregunta": "Cual es el nombre de la Asistente del Director del Colegio de Ingenieria?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Maria Lopez Melandez"
@@ -15,12 +17,14 @@
                     },
                     {
                         "opcion": "Maria Lopez Mendez",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cuales son los 6 valores del Código de Honor Cetys?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Oprah, Oprah Delgada, Oprah Gorda, Oprah Feliz, Oprah Horny y Oprah's Favorite Things"
@@ -33,12 +37,14 @@
                     },
                     {
                         "opcion": "Libertad, Justicia, Verdad, Belleza, Bien, Espiritualidad",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cual NO es un servicio del CEDE?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Asesorias"
@@ -51,31 +57,35 @@
                     },
                     {
                         "opcion": "Tacos de Birria el sabado pa la cruda",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Que dia cierra temprano Sorteos?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Jueves"
                     },
                     {
                         "opcion": "Nunca trabajan",
-                        "Correcta": "True"
+                        "Correcta": true
                     },
                     {
                         "opcion": "Cuando se les antoja"
                     },
                     {
                         "opcion": "Sabado",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cual es el nombre de la Presidenta actual de CETYS Campus Tijuana?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Juana Ibarra"
@@ -88,12 +98,14 @@
                     },
                     {
                         "opcion": "Jessica Ibarra",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cuantos niveles de Ingles hay?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Ningunos, los acredite"
@@ -106,12 +118,14 @@
                     },
                     {
                         "opcion": "5",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "En que edificio tomamos clases?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "JHBFABCJWBCKWEB4582"
@@ -124,12 +138,14 @@
                     },
                     {
                         "opcion": "E4",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "En que año fue fundado CETYS Universidad?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "1981"
@@ -142,12 +158,14 @@
                     },
                     {
                         "opcion": "1961",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cunato costo construir el nuevo auditorio de CETYS Universidad Campus Tijuana?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "7 Millones de Dolares"
@@ -160,12 +178,14 @@
                     },
                     {
                         "opcion": "5 Millones de Dolares",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cual fue el primer Campus de CETYS Universidad",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Campus Tjuana"
@@ -178,7 +198,7 @@
                     },
                     {
                         "opcion": "Campus Mexicali",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -188,6 +208,8 @@
         "preguntas": [
             {
                 "Pregunta": "En qué año se lanzó la primer computadora comercial?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "2042"
@@ -200,12 +222,14 @@
                     },
                     {
                         "opcion": "1951",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cual fue el primer lenguaje de alto nivel?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "LISP"
@@ -218,12 +242,14 @@
                     },
                     {
                         "opcion": "Fortran",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Orden de Organizacion Computacional",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": ""
@@ -236,12 +262,14 @@
                     },
                     {
                         "opcion": "Hardware, Firmware, Kernel, Sistema Operativa, Aplicaciones",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Por qué se llama Python?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Se le dio la gana"
@@ -254,12 +282,14 @@
                     },
                     {
                         "opcion": "Porque los creadores eran fanáticos de Monty Python's Flying Circus",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "De donde se cree que viene el logo de Apple?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Por ser simbolo de inmortalidad"
@@ -272,12 +302,14 @@
                     },
                     {
                         "opcion": "De la manzana con que se suicidó Alan Turing.",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "COmo se llamo el precursor a lo que hoy llamamos Internet",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Kleinroch"
@@ -290,12 +322,14 @@
                     },
                     {
                         "opcion": "ARPANET",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Donde se monto el precursor al internet ",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Harvard"
@@ -308,12 +342,14 @@
                     },
                     {
                         "opcion": "UCLA",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -326,12 +362,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -344,12 +382,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -362,7 +402,7 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -372,6 +412,8 @@
         "preguntas": [
             {
                 "Pregunta": "Cual actor o actriz se llevo un oscar por participar en la adaptacion de Misery",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Lauren Bacall"
@@ -384,12 +426,14 @@
                     },
                     {
                         "opcion": "Kahty Bates",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cual de las siguientes novelas de Stephen king NO ha tenido una adaptacion a pelicula",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Misery"
@@ -402,12 +446,14 @@
                     },
                     {
                         "opcion": "Ur",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Drama protagonizado por Robin WIlliams, Matt Damon y Ben Affleck",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Dead Poet's Society"
@@ -420,12 +466,14 @@
                     },
                     {
                         "opcion": "Good Will Hunting",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Esta pelicula es considerada el origen del formato de pelicula moderna ademas de ser considerada la mejor pelicula de todos los tiempos",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "All About Eve"
@@ -438,12 +486,14 @@
                     },
                     {
                         "opcion": "Citizen Kane",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Esta adaptacion de Stephen King fue la primera en no ser introducida como una serie corta",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Full Metal"
@@ -456,12 +506,14 @@
                     },
                     {
                         "opcion": "The Shining",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Esta historia de Roald Dahl ha recibido recientemente un musical en Broadwat",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Gremlins"
@@ -474,12 +526,14 @@
                     },
                     {
                         "opcion": "Matilda",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Esta joven actriz protagoniso en varias peliculas en su infancia entre ellas Matilda y Miracle on 34th Street",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Judy Garland"
@@ -492,12 +546,14 @@
                     },
                     {
                         "opcion": "Mara Wilson",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Este actor es reconocido principalmente por dos roles uno como el superheroe mas amigable de Nueva York y como uno de los fundadores de Facebook",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Jesse Eissenberg"
@@ -510,12 +566,14 @@
                     },
                     {
                         "opcion": "Andrew Garfield",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "De acuerdo a Stephen King, cual es la tematica secreta de Carrie?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "La posibilidad de la telekinesis"
@@ -528,12 +586,14 @@
                     },
                     {
                         "opcion": "El temor masculino del amanecer sexual de una joven adolescente",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "En Avatar cual es el nombre del mineral unico y precioso que se encontraba en Pandora",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Adamantium"
@@ -546,7 +606,7 @@
                     },
                     {
                         "opcion": "unobtanium",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -556,6 +616,8 @@
         "preguntas": [
             {
                 "Pregunta": "Quien es la voz de la lider de las Hienas en Lion King",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Rihanna"
@@ -568,12 +630,14 @@
                     },
                     {
                         "opcion": "Whoopi Goldberg",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "En la pelicula Toy Story 3 que le dice Woody a Zigg",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Soy tu padre"
@@ -586,12 +650,14 @@
                     },
                     {
                         "opcion": "Juega bonito Zigg",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Que pelicula de pokemon tienen una historia semejante a una historia de P.H. Lovecraft",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Pokemon la Pelicula"
@@ -604,12 +670,14 @@
                     },
                     {
                         "opcion": "Pokemon: Entei y el misterio de los Unown",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "En la pelicula The Iron Giant, que superheroe es una inspiracion para el Gigante?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Steel"
@@ -622,12 +690,14 @@
                     },
                     {
                         "opcion": "Superman",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Que pelicula de Disney incluye una pintura de una mujer desnuda",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Sleeping Beauty"
@@ -640,12 +710,14 @@
                     },
                     {
                         "opcion": "The Rescuers",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "CUal fue la pelicula de Warner Brothers Animation que los dejo en bancarrota",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "South Park: Bigger Longer and Uncut"
@@ -658,12 +730,14 @@
                     },
                     {
                         "opcion": "The Iron Giant",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Ultima pelicula animada del animador Don Bluth",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "All Dogs Go To Heaven"
@@ -676,12 +750,14 @@
                     },
                     {
                         "opcion": "Anastasia",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "La Pelicula An American Tale es una Alegoria para que?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "El maltrato a animales"
@@ -694,12 +770,14 @@
                     },
                     {
                         "opcion": "La vida de los migrantes de Rusia a Estados Unidos",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "De que defiende la Bestia a Belle cuando ella escapa del castillo?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Hienas"
@@ -712,12 +790,14 @@
                     },
                     {
                         "opcion": "Lobos",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Que es Chirpy?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Una linda pelicula de Disney olvidada por los años"
@@ -730,7 +810,7 @@
                     },
                     {
                         "opcion": "Un porno animado pajaro x caballo, con drogas",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -740,6 +820,8 @@
         "preguntas": [
             {
                 "Pregunta": "Cual parodia de cuentos de Adas tendra una adaptacion a pelicula este año?",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Wicked"
@@ -752,12 +834,14 @@
                     },
                     {
                         "opcion": "Into The Woods",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Cual de los siguientes musicales NO es compuesto por Stephen SOndheim",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Into the Woods"
@@ -770,12 +854,14 @@
                     },
                     {
                         "opcion": "La Cage Aux Follies",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Este musical recibio unos conciertos de 10 y 25 aniversario y en el segundo tuvo a Nick Jonas dentro de su cast",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Sweeney Todd"
@@ -788,12 +874,14 @@
                     },
                     {
                         "opcion": ":Les Miserables",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Obra que gano el Tony por mejor musical nuevo el año pasado",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "American Idiot"
@@ -806,12 +894,14 @@
                     },
                     {
                         "opcion": "Matilda The Musical",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Adaptacion Africoamericana de el mago de oz",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "The WOnderful Land of Oz"
@@ -824,12 +914,14 @@
                     },
                     {
                         "opcion": "The Wiz",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Este musical es una adaptacion de un libro de un punto de vista mas revolucionario y feminista del Mago de Oz",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "The Wonderful Land of Oz"
@@ -842,12 +934,14 @@
                     },
                     {
                         "opcion": "Wicked",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Este Musical trata de un fraude hehco por un dramatista acabado y un contador con un sueño",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Wicked"
@@ -860,12 +954,14 @@
                     },
                     {
                         "opcion": "The Producers",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Este musical trata sobre un pareja especial tratando de impresionar a la familia conservadora de la prometida de su hijo",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Into the Woods"
@@ -878,12 +974,14 @@
                     },
                     {
                         "opcion": "La Cage aux Folles",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Obra mas famosa en la cual ha participado Barbra Streizand",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -896,12 +994,14 @@
                     },
                     {
                         "opcion": "Funny Girl",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "Favorito Musical de Adolfo",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "Wicked"
@@ -914,7 +1014,7 @@
                     },
                     {
                         "opcion": "Todos los incluidos",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -924,6 +1024,8 @@
             "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -936,12 +1038,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -954,12 +1058,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -972,12 +1078,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -990,12 +1098,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1008,12 +1118,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1026,12 +1138,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1044,12 +1158,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1062,12 +1178,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1080,12 +1198,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1098,7 +1218,7 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -1108,6 +1228,8 @@
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1120,12 +1242,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1138,12 +1262,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1156,12 +1282,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1174,12 +1302,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1192,12 +1322,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1210,12 +1342,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1228,12 +1362,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1246,12 +1382,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1264,12 +1402,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1282,7 +1422,7 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -1292,6 +1432,8 @@
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1304,12 +1446,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1322,12 +1466,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1340,12 +1486,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1358,12 +1506,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1376,12 +1526,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1394,12 +1546,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1412,12 +1566,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1430,12 +1586,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1448,12 +1606,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1466,7 +1626,7 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -1476,6 +1636,8 @@
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1488,12 +1650,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1506,12 +1670,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1524,12 +1690,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1542,12 +1710,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1560,12 +1730,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1578,12 +1750,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1596,12 +1770,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1614,12 +1790,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1632,12 +1810,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1650,7 +1830,7 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
@@ -1660,6 +1840,8 @@
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1672,12 +1854,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1690,12 +1874,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1708,12 +1894,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1726,12 +1914,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1744,12 +1934,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1762,12 +1954,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1780,12 +1974,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1798,12 +1994,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1816,12 +2014,14 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             },
             {
                 "Pregunta": "VBBBkbk",
+                "value":"0",
+                "answered": false,
                 "opciones": [
                     {
                         "opcion": "XYXYXYXYXYXY"
@@ -1834,7 +2034,7 @@
                     },
                     {
                         "opcion": "XYXYXYXYXYXY",
-                        "Correcta": "True"
+                        "Correcta": true
                     }
                 ]
             }
