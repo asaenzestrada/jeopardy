@@ -1,5 +1,5 @@
-# Functions module
 import json
+from random import shuffle
 
 
 class Functions():
@@ -23,16 +23,24 @@ class Functions():
         """
 
         # Se utiliza opne() para abrir el fichero JSON como texto plano. Los parámetros significan:
-        #'r' -> abrir en modo SOLO LECTURA
-        #'-1' -> no crear Buffer
+        # 'r' -> abrir en modo SOLO LECTURA
+        # '-1' -> no crear Buffer
         # 'UTF-8' -> es la codificación del archivo.
         jsonData = open(jsonPath, 'r', -1, 'UTF-8').read()
-
         myJson = json.loads(jsonData)
+        #Functions.assignValues(myJson)
 
+        print(myJson)
         return myJson
 
-    def gameInit(self):
+    def assignValues(QJson):
+        now = 0
+        value = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
+        shuffle(value)  # Reordenar aleatoriamente.
 
-
-        return False
+        for cat in QJson['q']:
+            for quest in cat:
+                if now > len(value):
+                    break
+                quest['value'] = value[now]
+                now += 1

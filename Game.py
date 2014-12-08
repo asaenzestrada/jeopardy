@@ -1,53 +1,28 @@
-import json
+import easygui as eg
 
 
 class Game:
     many = 10
-    Status = True
-    quest = {}
-    def GameFlow(player, questions):
-        while Game.Status is True:
-            Game.printQuestionsBoard(questions)
-            Game.Status = False
-        return Game.Status
+    status = True
 
+    def gameflow(player, questions):
+        while Game.status is True:
+            player.lap += 1
+            cats = list()
 
-    def printQuestionsBoard(questionObj):
-        cat = questionObj['q']
-        file = "_________________________________________________________________"
-        file += "____________________________________________\n\n"
-        counter = 0
+            for category in questions['q']:
+                cats.append(category['Categoria'])
 
-        #TODO: Change counter var by the name of the category.
-        for category in cat:
-            file += "|  " + category['Categoria'] + "   "
-            for questions in range(len(category['preguntas'])):
-                Game.quest[counter] = category['preguntas']
-            counter += 1
-        Break = "\n_______________________________________________________________"
-        Break += "______________________________________________\n"
+            msg = "Juego de: " + player.name
+            msg += "\nCreditos: " + str(player.money)
+            msg += "\n\nRonda: " + str(player.lap)
+            msg += "\n"
+            msg += "\nAciertos: " + str(player.right)
+            msg += "\nErrores: " + str(player.mistakes)
 
-        file += "|" + Break
+            title = "Jeopardy SuperCool de ICC"
+            choice = eg.choicebox(msg, title, cats)
+            print(choice)
 
-        result = {}
-        resultIndex = 0
-
-        for x in range(len(cat) - 1):
-            for i in (range(Game.many -1)):
-                result[x][i] = cat[x]['preguntas'][i]
-
-
-
-        print(result)
-
-        print('Hay ' + str(len(Game.quest)) + ' categorias')
-
-        print('Hay ' + str(len(Game.quest[9]))  + ' Preguntas')
-
-        # Group questions by category. ↓
-
-
-
-
-
-        print(file)
+            Game.status = False
+        return Game.status
