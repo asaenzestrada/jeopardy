@@ -22,6 +22,7 @@ class Game:
 
             title = "Jeopardy SuperCool de ICC"
             choice = eg.choicebox(msg, title, cats)
+
             print(choice)
 
             Game.status = False

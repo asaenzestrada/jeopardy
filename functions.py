@@ -30,7 +30,6 @@ class Functions():
         myJson = json.loads(jsonData)
         Functions.assignValues(myJson)
 
-        print(myJson)
         return myJson
 
     def assignValues(QJson):
