@@ -28,7 +28,7 @@ class Functions():
         # 'UTF-8' -> es la codificación del archivo.
         jsonData = open(jsonPath, 'r', -1, 'UTF-8').read()
         myJson = json.loads(jsonData)
-        #Functions.assignValues(myJson)
+        Functions.assignValues(myJson)
 
         print(myJson)
         return myJson
@@ -39,8 +39,7 @@ class Functions():
         shuffle(value)  # Reordenar aleatoriamente.
 
         for cat in QJson['q']:
-            for quest in cat:
-                if now > len(value):
-                    break
-                quest['value'] = value[now]
-                now += 1
+            for quest in cat['preguntas']:
+                if now < len(value):
+                    quest['value'] = str(value[now])
+                    now += 1
