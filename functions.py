@@ -37,8 +37,8 @@ class Functions():
         value = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
         shuffle(value)  # Reordenar aleatoriamente.
 
-        for cat in QJson['q']:
-            for quest in cat['preguntas']:
+        for cat in QJson:
+            for quest in QJson[cat]['preguntas']:
                 if now < len(value):
                     quest['value'] = str(value[now])
                     now += 1

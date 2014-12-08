@@ -10,8 +10,8 @@ class Game:
             player.lap += 1
             cats = list()
 
-            for category in questions['q']:
-                cats.append(category['Categoria'])
+            for category in questions:
+                cats.append(category)
 
             msg = "Juego de: " + player.name
             msg += "\nCreditos: " + str(player.money)
@@ -22,7 +22,7 @@ class Game:
 
             title = "Jeopardy SuperCool de ICC"
             choice = eg.choicebox(msg, title, cats)
-            Game.showQuestion(category['Categoria'][choice], choice)
+
 
             Game.status = False
         return Game.status
