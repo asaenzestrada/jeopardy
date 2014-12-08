@@ -578,13 +578,13 @@
                     ]
                 },
                 {
-                    "Pregunta": "EN la pelicula Toy Story 3 que le dice Woody a quien a Zigg",
+                    "Pregunta": "En la pelicula Toy Story 3 que le dice Woody a Zigg",
                     "opciones": [
                         {
                             "opcion": "Soy tu padre"
                         },
                         {
-                            "opcion": "AL infinito y mas alla"
+                            "opcion": "Al infinito y mas alla"
                         },
                         {
                             "opcion": "Se un niño feliz"
@@ -596,145 +596,145 @@
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Que pelicula de pokemon tienen una historia semejante a una historia de P.H. Lovecraft",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Pokemon la Pelicula"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Pokemon La Pelicula 2000"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Pokemon: Guerreros por el Teimpo "
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Pokemon: Entei y el misterio de los Unown",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "En la pelicula The Iron Giant, que superheroe es una inspiracion para el Gigante?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Steel"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Batman"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Iron Man"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Superman",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Que pelicula de Disney incluye una pintura de una mujer desnuda",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Sleeping Beauty"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Beauty and The Beast"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Brave"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "The Rescuers",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "CUal fue la pelicula de Warner Brothers Animation que los dejo en bancarrota",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "South Park: Bigger Longer and Uncut"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Summer Wars"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Saladdin's Adventures"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "The Iron Giant",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Ultima pelicula animada del animador Don Bluth",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "All Dogs Go To Heaven"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "AN AMerican Tale"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Land Before Time XIII"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Anastasia",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "La Pelicula An American Tale es una Alegoria para que?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "El maltrato a animales"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "La maldad de los gatos"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "EL Holocausto"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "La vida de los migrantes de Rusia a Estados Unidos",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "De que defiende la Bestia a Belle cuando ella escapa del castillo?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Hienas"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "El fracaso humano"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Tomates Asesinos"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Lobos",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Que es Chirpy?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Una linda pelicula de Disney olvidada por los años"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "La frase mas famosa de Don Bluth"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Nose, Adolfo que pedo con esta pregunta?"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Un porno animado pajaro x caballo, con drogas",
                             "Correcta": "True"
                         }
                     ]
@@ -742,184 +742,184 @@
             ]
         },
         {
-            "Categoria": "Cetys",
+            "Categoria": "Musicales :D",
             "preguntas": [
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cual parodia de cuentos de Adas tendra una adaptacion a pelicula este año?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Wicked"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Something Wicked This Way Comes"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "A Slipper Goes Away"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Into The Woods",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cual de los siguientes musicales NO es compuesto por Stephen SOndheim",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Into the Woods"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Sweeney Todd"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Gypsy"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "La Cage Aux Follies",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Este musical recibio unos conciertos de 10 y 25 aniversario y en el segundo tuvo a Nick Jonas dentro de su cast",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Sweeney Todd"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "La Cage aux Follies"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Wicked"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": ":Les Miserables",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Obra que gano el Tony por mejor musical nuevo el año pasado",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "American Idiot"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Book of Mormon"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Alice Through the Looking Glass and Back"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Matilda The Musical",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Adaptacion Africoamericana de el mago de oz",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The WOnderful Land of Oz"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Wicked"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Wizard of AIDS"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "The Wiz",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Este musical es una adaptacion de un libro de un punto de vista mas revolucionario y feminista del Mago de Oz",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Wonderful Land of Oz"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Wizard of AIDS"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Wiz"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Wicked",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Este Musical trata de un fraude hehco por un dramatista acabado y un contador con un sueño",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Wicked"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "XYXYXYXYXow to Succeed in Bisiness"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Matilda"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "The Producers",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Este musical trata sobre un pareja especial tratando de impresionar a la familia conservadora de la prometida de su hijo",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Into the Woods"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Funny Girl"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Birdcage"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "La Cage aux Folles",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Obra mas famosa en la cual ha participado Barbra Streizand",
                     "opciones": [
                         {
                             "opcion": "XYXYXYXYXYXY"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Mom Trip"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Mamma Mia"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Funny Girl",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Favorito Musical de Adolfo",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Wicked"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "La Cage Aux Follies"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Book of Mormon"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Todos los incluidos",
                             "Correcta": "True"
                         }
                     ]
@@ -927,184 +927,184 @@
             ]
         },
         {
-            "Categoria": "Cetys",
+            "Categoria": "Videojuegos",
             "preguntas": [
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Compañia cuyos trabajos incluyen: Dragon Age, Mass Effect, Star EWars Knights of the Old Republic, etc.",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Activision"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Square-Enix"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Bethesda"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Bioware",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "MOBA actualmente mas jugado",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Defence of the Ancients"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Defence of the Ancients 2"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Heroes of Newerth"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "League of Legends",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Como se llama la primer instalacion de la franquisia de Elder Scrolls",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Daggerfall"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Morrowind"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Cyrodill"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Arena",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Supuesto antecedente de la serie de Fallout",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Shadowrun"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Waxworks"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Spies and Private Eyers"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Wsteland",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Primer Juego que jugo Adolfo",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Super Smash Bros."
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Legend of Zelda: Ocarina of Time"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Mortal Kombat 4"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Banjo Kazoey",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cual de estas Franquicias no es exclusivo  a Xbox(Excluyendo PC)",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Halo"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Fable"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Crackdown"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Kingdom Under FIre",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Fable contiene muchos chistes en referencia a la siguiente serie",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "SPAM"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Black Adder"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Black Books"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Monty Python's Flying Circus",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cuantas copias ha vendido Tetris?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "69 ;)"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "42 500 000"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "63 000 000"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "143 millones",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Franquisia favorita de Adolfo (EL integrante que importa)",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Legend of Zelda"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Dragon Age"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "StarCraft"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Mass Effect",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Este juego supuestamente inocente estrena una pequeña ardilla con cruda divagando y buscando dinero ",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Spirrow"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Crash Bandicoot"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Banjo Toeey"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Conker's Bad Furr Day",
                             "Correcta": "True"
                         }
                     ]
