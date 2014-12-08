@@ -927,184 +927,184 @@
             ]
         },
         {
-            "Categoria": "Cetys",
+            "Categoria": "Videojuegos",
             "preguntas": [
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Compañia cuyos trabajos incluyen: Dragon Age, Mass Effect, Star EWars Knights of the Old Republic, etc.",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Activision"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Square-Enix"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Bethesda"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Bioware",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "MOBA actualmente mas jugado",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Defence of the Ancients"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Defence of the Ancients 2"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Heroes of Newerth"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "League of Legends",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Como se llama la primer instalacion de la franquisia de Elder Scrolls",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Daggerfall"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Morrowind"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Cyrodill"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Arena",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Supuesto antecedente de la serie de Fallout",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Shadowrun"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Waxworks"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Spies and Private Eyers"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Wsteland",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Primer Juego que jugo Adolfo",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Super Smash Bros."
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "The Legend of Zelda: Ocarina of Time"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Mortal Kombat 4"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Banjo Kazoey",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cual de estas Franquicias no es exclusivo  a Xbox(Excluyendo PC)",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Halo"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Fable"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Crackdown"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Kingdom Under FIre",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Fable contiene muchos chistes en referencia a la siguiente serie",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "SPAM"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Black Adder"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Black Books"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Monty Python's Flying Circus",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Cuantas copias ha vendido Tetris?",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "69 ;)"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "42 500 000"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "63 000 000"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "143 millones",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Franquisia favorita de Adolfo (EL integrante que importa)",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Legend of Zelda"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Dragon Age"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "StarCraft"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Mass Effect",
                             "Correcta": "True"
                         }
                     ]
                 },
                 {
-                    "Pregunta": "VBBBkbk",
+                    "Pregunta": "Este juego supuestamente inocente estrena una pequeña ardilla con cruda divagando y buscando dinero ",
                     "opciones": [
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Spirrow"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Crash Bandicoot"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY"
+                            "opcion": "Banjo Toeey"
                         },
                         {
-                            "opcion": "XYXYXYXYXYXY",
+                            "opcion": "Conker's Bad Furr Day",
                             "Correcta": "True"
                         }
                     ]
