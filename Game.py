@@ -35,6 +35,7 @@ class Game:
         for x in range(len(cat) - 1):
             for i in (range(Game.many -1)):
                 result[x][i] = cat[x]['preguntas'][i]
+                
 
 
 
@@ -46,8 +47,12 @@ class Game:
 
         # Group questions by category. ↓
 
-
-
-
-
         print(file)
+
+    def QuestionsAns (questions, seleccion):
+        for category in cat:
+            QnA = category['preguntas']
+            if ['opciones'] == ['Correcta']:
+             return True
+            else:
+             return False
