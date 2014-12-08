@@ -1,7 +1,6 @@
 {
-    "q": [
-        {
-            "Categoria": "Cetys",
+    "q": {
+        "Cetys":{
             "preguntas": [
                 {
                     "Pregunta": "Cual es el nombre de la Asistente del Director del Colegio de Ingenieria?",
@@ -206,8 +205,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "ICC",
+        "ICC":{
             "preguntas": [
                 {
                     "Pregunta": "En qué año se lanzó la primer computadora comercial?",
@@ -411,8 +409,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Dramas",
+        "Dramas":{
             "preguntas": [
                 {
                     "Pregunta": "Cual actor o actriz se llevo un oscar por participar en la adaptacion de Misery",
@@ -616,8 +613,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Animacion",
+        "Animacion":{
             "preguntas": [
                 {
                     "Pregunta": "Quien es la voz de la lider de las Hienas en Lion King",
@@ -821,8 +817,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Musicales :D",
+        "Musicales":{
             "preguntas": [
                 {
                     "Pregunta": "Cual parodia de cuentos de Adas tendra una adaptacion a pelicula este año?",
@@ -1026,8 +1021,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Videojuegos",
+        "Videojuegos":{
             "preguntas": [
                 {
                     "Pregunta": "Compañia cuyos trabajos incluyen: Dragon Age, Mass Effect, Star EWars Knights of the Old Republic, etc.",
@@ -1231,8 +1225,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Cetys",
+        "Cetys":{
             "preguntas": [
                 {
                     "Pregunta": "VBBBkbk",
@@ -1436,8 +1429,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Cetys",
+        "Cetys":{
             "preguntas": [
                 {
                     "Pregunta": "VBBBkbk",
@@ -1641,8 +1633,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Cetys",
+        "Cetys":{
             "preguntas": [
                 {
                     "Pregunta": "VBBBkbk",
@@ -1846,8 +1837,7 @@
                 }
             ]
         },
-        {
-            "Categoria": "Cetys",
+        "Cetys":{
             "preguntas": [
                 {
                     "Pregunta": "VBBBkbk",
@@ -2051,5 +2041,5 @@
                 }
             ]
         }
-    ]
+    }
 }
