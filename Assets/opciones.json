@@ -347,61 +347,61 @@
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Modelo de arquitectura utilizado en computadoras",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Del boiller"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Vermont"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Modelo Steve Jobs"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "de Von Neumann",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Significado de RAM",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Recapacitador de Amplitud Modulada"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Acronimo de RME"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Remote Acces Memory"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Random Access Memory",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Maquina de origen nazi que fue desencriptada gracias al trabajo de Alan Turing",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Vorgnestein"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "La matruzka"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Hitlerian XX"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Enigma",
                         "Correcta": true
                     }
                 ]
@@ -1063,7 +1063,7 @@
                 ]
             },
             {
-                "Pregunta": "Como se llama la primer instalacion de la franquisia de Elder Scrolls",
+                "Pregunta": "Como se llama la primer instalacion de la franquicia de Elder Scrolls",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1083,7 +1083,7 @@
                 ]
             },
             {
-                "Pregunta": "Como se llama la primer instalacion de la franquisia de Elder Scrolls",
+                "Pregunta": "Como se llama la primer instalacion de la franquicia de Elder Scrolls",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1203,7 +1203,7 @@
                 ]
             },
             {
-                "Pregunta": "Franquisia favorita de Adolfo (EL integrante que importa)",
+                "Pregunta": "Franquicia favorita de Adolfo (EL integrante que importa)",
                 "value": 0,
                 "answered": false,
                 "opciones": [
