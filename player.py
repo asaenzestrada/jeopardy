@@ -4,7 +4,7 @@ import sys
 
 class Player:
     name = ""
-    money = 0
+    money = 500
     right = 0
     mistakes = 0
     lap = 0

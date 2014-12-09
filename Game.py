@@ -9,6 +9,8 @@ class Game:
     ErrorLimit = 5
     GameLimit = 30
     MoneyLimit = -1000
+    LooseMoney = 100
+    Win = False
 
     def gameflow(player):
         while Game.status is True:
@@ -28,7 +30,8 @@ class Game:
 
             image = "Assets/imagenes/" + category + ".gif"
             msg = "Selecciona el valor que quieres ganar"
-            chosen = eg.buttonbox(msg, image=image, choices=choices)
+            if len(choices) > 0:
+                chosen = eg.buttonbox(msg, image=image, choices=choices)
 
             for quest in Game.questions[category]['preguntas']:
                 if not quest['answered'] and quest['value'] == chosen:
@@ -50,16 +53,16 @@ class Game:
                     else:
                         eg.msgbox("Incorrecto amiguito... que triste\nLa respuesta es:\n" + Correcta + "\n\nHaz perdido $100", ok_button="okaaaay :(");
                         player.mistakes += 1
-                        player.money -= 100
+                        player.money -= Game.LooseMoney
 
                 if player.mistakes > Game.ErrorLimit or player.money < Game.MoneyLimit:
                     Game.status = False
                     eg.msgbox("Has perdido, este jeopardy es mucho para ti..." + msg1, ok_button="byeeeee :(")
                     exit()
-                if player.lap > Game.GameLimit:
+                if player.lap > Game.GameLimit and player.money > Game.MoneyLimit and player.mistakes < Game.ErrorLimit:
                     Game.status = False
-                    Win = True
-        if Win:
+                    Game.Win = True
+        if Game.Win:
             eg.msgbox("Has Ganado, te mereces el respeto de un pythonista...\ny te llevas $"
                       + str(player.money) + "\n" + Game.getMessage(player), ok_button="Salir")
 
