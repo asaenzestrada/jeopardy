@@ -1227,201 +1227,201 @@
     "Geografia":{
         "preguntas": [
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cual es el unico continente sin desiertos?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Oceania"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Asia"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "America"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Europa",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Este estado de Estados Unidos recibe alrededor de 5000 terremotos al dia",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "California"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Oregon"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Washington"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Alaska",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Altura Maxima de cenizes eruptadas por un volcan",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "150 m"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "20 km"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "100 km"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "50 km",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cual es el nombre mas corto de un lugar",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "ebnfjkbasjkcbasjkbc en aiosdnfoasnf"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "EL rio Sha en India"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "La montaña Mo China"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "El pueblo de Å Suecia",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "El Pais con mas bunkers es....",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Rusia"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Japon"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Estados Unidos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Albania",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Que significa Rio de Janeiro",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "SOlamente Rio de Janeiro, no tiene que significar algo"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "El rio de la felicidad"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "EL Rio de Bienvenida"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "El Rio de Enero",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cual pais contiene mas de la mitad de los Lagos del Mundo?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Estados Unidos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "India"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Egipto"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Canada",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cual de los sigientes si puede ser considerado como un lago",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Mar Caspio"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Mar Muerto"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Mar Negro"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Nar Caribe",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Quieb es el mayor propietario de TIerra en Nueva York?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Rupert Murdock"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "El Estado"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Donald Trump"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "La Iglesia Catolica",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "En que continente se encuentran los 10 volcanes mas activos del mundo",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Africa"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Asia"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Oceania"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "America",
                         "Correcta": true
                     }
                 ]
