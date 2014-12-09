@@ -1,4 +1,5 @@
 import easygui as eg
+import sys
 
 
 class Player:
@@ -14,7 +15,11 @@ class Player:
         fieldNames = ["Name"]
         fieldValues = []  # we start with blanks for the values
         fieldValues = eg.multenterbox(msg, title, fieldNames)
-        res = fieldValues[0]
 
-        Player.name = res  # input("Dame tu nombresillo ;)\n")
+        try:
+            res = fieldValues[0]
+        except Exception:
+            sys.exit()
+
+        Player.name = res
         return True

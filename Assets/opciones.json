@@ -3,7 +3,7 @@
         "preguntas": [
             {
                 "Pregunta": "Cual es el nombre de la Asistente del Director del Colegio de Ingenieria?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -23,7 +23,7 @@
             },
             {
                 "Pregunta": "Cuales son los 6 valores del Código de Honor Cetys?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -43,7 +43,7 @@
             },
             {
                 "Pregunta": "Cual NO es un servicio del CEDE?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -63,7 +63,7 @@
             },
             {
                 "Pregunta": "Que dia cierra temprano Sorteos?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -84,7 +84,7 @@
             },
             {
                 "Pregunta": "Cual es el nombre de la Presidenta actual de CETYS Campus Tijuana?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -104,7 +104,7 @@
             },
             {
                 "Pregunta": "Cuantos niveles de Ingles hay?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -124,7 +124,7 @@
             },
             {
                 "Pregunta": "En que edificio tomamos clases?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -144,7 +144,7 @@
             },
             {
                 "Pregunta": "En que año fue fundado CETYS Universidad?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -164,7 +164,7 @@
             },
             {
                 "Pregunta": "Cunato costo construir el nuevo auditorio de CETYS Universidad Campus Tijuana?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -184,7 +184,7 @@
             },
             {
                 "Pregunta": "Cual fue el primer Campus de CETYS Universidad",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -208,7 +208,7 @@
         "preguntas": [
             {
                 "Pregunta": "En qué año se lanzó la primer computadora comercial?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -228,7 +228,7 @@
             },
             {
                 "Pregunta": "Cual fue el primer lenguaje de alto nivel?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -248,11 +248,11 @@
             },
             {
                 "Pregunta": "Orden de Organizacion Computacional",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": ""
+                        "opcion": "Betun, masa, relleno y aderezo."
                     },
                     {
                         "opcion": "Aplicaciones, Sistema Operativa, Firmware, Kernel, Hardware"
@@ -268,7 +268,7 @@
             },
             {
                 "Pregunta": "Por qué se llama Python?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -288,7 +288,7 @@
             },
             {
                 "Pregunta": "De donde se cree que viene el logo de Apple?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -308,7 +308,7 @@
             },
             {
                 "Pregunta": "COmo se llamo el precursor a lo que hoy llamamos Internet",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -328,7 +328,7 @@
             },
             {
                 "Pregunta": "Donde se monto el precursor al internet ",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -348,7 +348,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -368,7 +368,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -388,7 +388,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -412,7 +412,7 @@
         "preguntas": [
             {
                 "Pregunta": "Cual actor o actriz se llevo un oscar por participar en la adaptacion de Misery",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -432,7 +432,7 @@
             },
             {
                 "Pregunta": "Cual de las siguientes novelas de Stephen king NO ha tenido una adaptacion a pelicula",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -452,7 +452,7 @@
             },
             {
                 "Pregunta": "Drama protagonizado por Robin WIlliams, Matt Damon y Ben Affleck",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -472,7 +472,7 @@
             },
             {
                 "Pregunta": "Esta pelicula es considerada el origen del formato de pelicula moderna ademas de ser considerada la mejor pelicula de todos los tiempos",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -492,7 +492,7 @@
             },
             {
                 "Pregunta": "Esta adaptacion de Stephen King fue la primera en no ser introducida como una serie corta",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -512,7 +512,7 @@
             },
             {
                 "Pregunta": "Esta historia de Roald Dahl ha recibido recientemente un musical en Broadwat",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -532,7 +532,7 @@
             },
             {
                 "Pregunta": "Esta joven actriz protagoniso en varias peliculas en su infancia entre ellas Matilda y Miracle on 34th Street",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -552,7 +552,7 @@
             },
             {
                 "Pregunta": "Este actor es reconocido principalmente por dos roles uno como el superheroe mas amigable de Nueva York y como uno de los fundadores de Facebook",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -572,7 +572,7 @@
             },
             {
                 "Pregunta": "De acuerdo a Stephen King, cual es la tematica secreta de Carrie?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -592,7 +592,7 @@
             },
             {
                 "Pregunta": "En Avatar cual es el nombre del mineral unico y precioso que se encontraba en Pandora",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -616,7 +616,7 @@
         "preguntas": [
             {
                 "Pregunta": "Quien es la voz de la lider de las Hienas en Lion King",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -636,7 +636,7 @@
             },
             {
                 "Pregunta": "En la pelicula Toy Story 3 que le dice Woody a Zigg",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -656,7 +656,7 @@
             },
             {
                 "Pregunta": "Que pelicula de pokemon tienen una historia semejante a una historia de P.H. Lovecraft",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -676,7 +676,7 @@
             },
             {
                 "Pregunta": "En la pelicula The Iron Giant, que superheroe es una inspiracion para el Gigante?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -696,7 +696,7 @@
             },
             {
                 "Pregunta": "Que pelicula de Disney incluye una pintura de una mujer desnuda",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -716,7 +716,7 @@
             },
             {
                 "Pregunta": "CUal fue la pelicula de Warner Brothers Animation que los dejo en bancarrota",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -736,7 +736,7 @@
             },
             {
                 "Pregunta": "Ultima pelicula animada del animador Don Bluth",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -756,7 +756,7 @@
             },
             {
                 "Pregunta": "La Pelicula An American Tale es una Alegoria para que?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -776,7 +776,7 @@
             },
             {
                 "Pregunta": "De que defiende la Bestia a Belle cuando ella escapa del castillo?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -796,7 +796,7 @@
             },
             {
                 "Pregunta": "Que es Chirpy?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -820,7 +820,7 @@
         "preguntas": [
             {
                 "Pregunta": "Cual parodia de cuentos de Adas tendra una adaptacion a pelicula este año?",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -840,7 +840,7 @@
             },
             {
                 "Pregunta": "Cual de los siguientes musicales NO es compuesto por Stephen SOndheim",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -860,7 +860,7 @@
             },
             {
                 "Pregunta": "Este musical recibio unos conciertos de 10 y 25 aniversario y en el segundo tuvo a Nick Jonas dentro de su cast",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -880,7 +880,7 @@
             },
             {
                 "Pregunta": "Obra que gano el Tony por mejor musical nuevo el año pasado",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -900,7 +900,7 @@
             },
             {
                 "Pregunta": "Adaptacion Africoamericana de el mago de oz",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -920,7 +920,7 @@
             },
             {
                 "Pregunta": "Este musical es una adaptacion de un libro de un punto de vista mas revolucionario y feminista del Mago de Oz",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -940,7 +940,7 @@
             },
             {
                 "Pregunta": "Este Musical trata de un fraude hehco por un dramatista acabado y un contador con un sueño",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -960,7 +960,7 @@
             },
             {
                 "Pregunta": "Este musical trata sobre un pareja especial tratando de impresionar a la familia conservadora de la prometida de su hijo",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -980,7 +980,7 @@
             },
             {
                 "Pregunta": "Obra mas famosa en la cual ha participado Barbra Streizand",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1000,7 +1000,7 @@
             },
             {
                 "Pregunta": "Favorito Musical de Adolfo",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1024,7 +1024,7 @@
             "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1044,7 +1044,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1064,7 +1064,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1084,7 +1084,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1104,7 +1104,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1124,7 +1124,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1144,7 +1144,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1164,7 +1164,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1184,7 +1184,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1204,7 +1204,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1224,11 +1224,11 @@
             }
         ]
     },
-    "Cetys":{
+    "Cetys1":{
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1248,7 +1248,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1268,7 +1268,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1288,7 +1288,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1308,7 +1308,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1328,7 +1328,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1348,7 +1348,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1368,7 +1368,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1388,7 +1388,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1408,7 +1408,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1428,11 +1428,11 @@
             }
         ]
     },
-    "Cetys":{
+    "Cetys2":{
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1452,7 +1452,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1472,7 +1472,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1492,7 +1492,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1512,7 +1512,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1532,7 +1532,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1552,7 +1552,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1572,7 +1572,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1592,7 +1592,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1612,7 +1612,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1632,11 +1632,11 @@
             }
         ]
     },
-    "Cetys":{
+    "Cetys5":{
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1656,7 +1656,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1676,7 +1676,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1696,7 +1696,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1716,7 +1716,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1736,7 +1736,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1756,7 +1756,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1776,7 +1776,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1796,7 +1796,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1816,7 +1816,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1836,11 +1836,11 @@
             }
         ]
     },
-    "Cetys":{
+    "Cetys9":{
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1860,7 +1860,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1880,7 +1880,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1900,7 +1900,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1920,7 +1920,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1940,7 +1940,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1960,7 +1960,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -1980,7 +1980,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -2000,7 +2000,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {
@@ -2020,7 +2020,7 @@
             },
             {
                 "Pregunta": "VBBBkbk",
-                "value":"0",
+                "value": 0,
                 "answered": false,
                 "opciones": [
                     {

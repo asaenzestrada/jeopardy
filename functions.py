@@ -7,7 +7,6 @@ class Functions():
         """
         @asaenz
         Define si una variable esta creada o no. Si existe devuelve TRUE de lo contrario FALSE.
-
         :param variable:
         :return:
         """
@@ -15,9 +14,8 @@ class Functions():
 
     def handleJson(jsonPath):
         """
-        Manejar el objeto JSON del cual se cargan las preguntas. Devuelve un objeto con el contenido del archivo de source.
-
         @asaenz
+        Manejar el objeto JSON del cual se cargan las preguntas. Devuelve un objeto con el contenido del archivo de source.
         :param jsonPath:
         :return:
         """
@@ -33,13 +31,14 @@ class Functions():
 
     def assignValues(QJson):
         newJson = QJson
-        now = 0
         value = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
         shuffle(value)  # Reordenar aleatoriamente.
 
         for cat in newJson:
+            now = 0
             for quest in newJson[cat]['preguntas']:
                 if now < len(value):
-                    quest['value'] = str(value[now])
+                    quest['value'] = value[now]
                     now += 1
         return newJson
+
