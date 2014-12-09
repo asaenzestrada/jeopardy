@@ -62,6 +62,7 @@ class Game:
                             Correcta = option['opcion']
                         except KeyError:
                             pass
+                    random.shuffle(options)
                     reply = eg.buttonbox(msg, image=image, choices=options)
                     quest['answered'] = True
                     if reply == Correcta:
@@ -71,13 +72,14 @@ class Game:
                         player.money += quest['value']
                     else:
                         eg.msgbox(random.choice(Game.incorrectAnswers) + "\nLa respuesta es:\n"
-                                  + Correcta + "\n\nHaz perdido $" + str(Game.LooseMoney),ok_button="okaaaay :(");
+                                  + Correcta + "\n\nHaz perdido $" + str(Game.LooseMoney), ok_button="okaaaay :(");
                         player.mistakes += 1
                         player.money -= Game.LooseMoney
 
                 if player.mistakes > Game.ErrorLimit or player.money < Game.MoneyLimit:
                     Game.status = False
-                    eg.msgbox("Has perdido, este jeopardy es mucho para ti...\n\n" + Game.getMessage(player), ok_button="byeeeee :(")
+                    eg.msgbox("Has perdido, este jeopardy es mucho para ti...\n\n" + Game.getMessage(player),
+                              ok_button="byeeeee :(")
                     exit()
                 if player.lap > Game.GameLimit and player.money > Game.MoneyLimit and player.mistakes < Game.ErrorLimit:
                     Game.status = False
