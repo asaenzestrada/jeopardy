@@ -83,7 +83,7 @@
                 ]
             },
             {
-                "Pregunta": "Cual es el nombre de la Presidenta actual de CETYS Campus Tijuana?",
+                "Pregunta": "Cual es el nombre de la Directora actual de CETYS Campus Tijuana?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -235,13 +235,13 @@
                         "opcion": "LISP"
                     },
                     {
-                        "opcion": "Heskel"
+                        "opcion": "Haskel"
                     },
                     {
                         "opcion": "C"
                     },
                     {
-                        "opcion": "Fortran",
+                        "opcion": "FORTRAN",
                         "Correcta": true
                     }
                 ]
@@ -327,7 +327,7 @@
                 ]
             },
             {
-                "Pregunta": "Donde se monto el precursor al internet ",
+                "Pregunta": "Donde se monto el precursor al Internet ",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -411,7 +411,7 @@
     "Dramas":{
         "preguntas": [
             {
-                "Pregunta": "Cual actor o actriz se llevo un oscar por participar en la adaptacion de Misery",
+                "Pregunta": "Cual actor o actriz se llevo un Oscar por participar en la adaptacion de Misery",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "Pregunta": "Drama protagonizado por Robin WIlliams, Matt Damon y Ben Affleck",
+                "Pregunta": "Drama protagonizado por Robin WIlliams, Matt Daemon y Ben Affleck",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -511,7 +511,7 @@
                 ]
             },
             {
-                "Pregunta": "Esta historia de Roald Dahl ha recibido recientemente un musical en Broadwat",
+                "Pregunta": "Esta historia de Roald Dahl ha recibido recientemente un musical en Broadway",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -531,7 +531,7 @@
                 ]
             },
             {
-                "Pregunta": "Esta joven actriz protagoniso en varias peliculas en su infancia entre ellas Matilda y Miracle on 34th Street",
+                "Pregunta": "Esta joven actriz protagonizo en varias peliculas en su infancia entre ellas Matilda y Miracle on 34th Street",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -551,7 +551,7 @@
                 ]
             },
             {
-                "Pregunta": "Este actor es reconocido principalmente por dos roles uno como el superheroe mas amigable de Nueva York y como uno de los fundadores de Facebook",
+                "Pregunta": "Este actor es reconocido principalmente por dos roles uno como el super heroe mas amigable de Nueva York y como uno de los fundadores de Facebook",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -605,7 +605,7 @@
                         "opcion": "Silverite"
                     },
                     {
-                        "opcion": "unobtanium",
+                        "opcion": "Unobtanium",
                         "Correcta": true
                     }
                 ]
@@ -655,7 +655,7 @@
                 ]
             },
             {
-                "Pregunta": "Que pelicula de pokemon tienen una historia semejante a una historia de P.H. Lovecraft",
+                "Pregunta": "Que pelicula de Pokemon tienen una historia semejante a una historia de H.P. Lovecraft",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -666,16 +666,16 @@
                         "opcion": "Pokemon La Pelicula 2000"
                     },
                     {
-                        "opcion": "Pokemon: Guerreros por el Teimpo "
+                        "opcion": "Pokemon: Guerreros por el Tiempo "
                     },
                     {
                         "opcion": "Pokemon: Entei y el misterio de los Unown",
                         "Correcta": true
-                    }
+                    } 
                 ]
             },
             {
-                "Pregunta": "En la pelicula The Iron Giant, que superheroe es una inspiracion para el Gigante?",
+                "Pregunta": "En la pelicula The Iron Giant, que super heroe es una inspiracion para el Gigante?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -715,7 +715,7 @@
                 ]
             },
             {
-                "Pregunta": "CUal fue la pelicula de Warner Brothers Animation que los dejo en bancarrota",
+                "Pregunta": "Cual fue la pelicula de Warner Brothers Animation que los dejo en bancarrota",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -769,7 +769,7 @@
                         "opcion": "EL Holocausto"
                     },
                     {
-                        "opcion": "La vida de los migrantes de Rusia a Estados Unidos",
+                        "opcion": "La vida de los migrantes rusos en Estados Unidos",
                         "Correcta": true
                     }
                 ]
@@ -819,7 +819,7 @@
     "Musicales":{
         "preguntas": [
             {
-                "Pregunta": "Cual parodia de cuentos de Adas tendra una adaptacion a pelicula este año?",
+                "Pregunta": "Cual parodia de cuentos de hadas tendra una adaptacion a pelicula este año?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -839,7 +839,7 @@
                 ]
             },
             {
-                "Pregunta": "Cual de los siguientes musicales NO es compuesto por Stephen SOndheim",
+                "Pregunta": "Cual de los siguientes musicales NO es compuesto por Stephen Sondheim",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -879,7 +879,7 @@
                 ]
             },
             {
-                "Pregunta": "Obra que gano el Tony por mejor musical nuevo el año pasado",
+                "Pregunta": "Obra que gano el Tony por mejor musical nuevo el 2013",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -904,7 +904,7 @@
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "The WOnderful Land of Oz"
+                        "opcion": "The Wonderful Land of Oz"
                     },
                     {
                         "opcion": "Wicked"
@@ -939,7 +939,7 @@
                 ]
             },
             {
-                "Pregunta": "Este Musical trata de un fraude hehco por un dramatista acabado y un contador con un sueño",
+                "Pregunta": "Este Musical trata de un fraude hecho por un dramaturgo acabado y un contador con un sueño",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -947,7 +947,7 @@
                         "opcion": "Wicked"
                     },
                     {
-                        "opcion": "XYXYXYXYXow to Succeed in Bisiness"
+                        "opcion": "How to Succeed in Bisiness"
                     },
                     {
                         "opcion": "Matilda"
@@ -979,12 +979,12 @@
                 ]
             },
             {
-                "Pregunta": "Obra mas famosa en la cual ha participado Barbra Streizand",
+                "Pregunta": "Obra mas famosa en la cual ha participado Barbara Streizand",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Aventurera"
                     },
                     {
                         "opcion": "Mom Trip"
@@ -1023,7 +1023,7 @@
         "Videojuegos":{
             "preguntas": [
             {
-                "Pregunta": "Compañia cuyos trabajos incluyen: Dragon Age, Mass Effect, Star EWars Knights of the Old Republic, etc.",
+                "Pregunta": "Compañia cuyos trabajos incluyen: Dragon Age, Mass Effect, Star Wars Knights of the Old Republic, etc.",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1063,12 +1063,12 @@
                 ]
             },
             {
-                "Pregunta": "Como se llama la primer instalacion de la franquicia de Elder Scrolls",
+                "Pregunta": "Cual fue el primer juego de genero MOBA",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "Defence of the Ancients"
+                        "opcion": "League of Legends"
                     },
                     {
                         "opcion": "Defence of the Ancients 2"
@@ -1077,7 +1077,7 @@
                         "opcion": "Heroes of Newerth"
                     },
                     {
-                        "opcion": "League of Legends",
+                        "opcion": "Defense of The Ancients (DOTA)",
                         "Correcta": true
                     }
                 ]
@@ -1123,7 +1123,7 @@
                 ]
             },
             {
-                "Pregunta": "Primer Juego que jugo Adolfo(el miembro mas importante)",
+                "Pregunta": "Primer Juego que jugo Adolfo (el miembro mas importante)",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1247,7 +1247,7 @@
                 ]
             },
             {
-                "Pregunta": "Este estado de Estados Unidos recibe alrededor de 5000 terremotos al dia",
+                "Pregunta": "Este estado de Estados Unidos recibe alrededor de 5000 terremotos al anio",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1267,7 +1267,7 @@
                 ]
             },
             {
-                "Pregunta": "Altura Maxima de cenizes eruptadas por un volcan",
+                "Pregunta": "Altura maxima que alcanzan las cenizas expulsadas por un volcan",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1298,16 +1298,16 @@
                         "opcion": "EL rio Sha en India"
                     },
                     {
-                        "opcion": "La montaña Mo China"
+                        "opcion": "La montaña Mo, China"
                     },
                     {
-                        "opcion": "El pueblo de Å Suecia",
+                        "opcion": "El pueblo de Å, Suecia",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "El Pais con mas bunkers es....",
+                "Pregunta": "El Pais con mas bunkers es",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1367,7 +1367,7 @@
                 ]
             },
             {
-                "Pregunta": "Cual de los sigientes si puede ser considerado como un lago",
+                "Pregunta": "Cual de los siguientes no puede ser considerado como un lago",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1381,13 +1381,13 @@
                         "opcion": "Mar Negro"
                     },
                     {
-                        "opcion": "Nar Caribe",
+                        "opcion": "Mar Caribe",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "Quieb es el mayor propietario de TIerra en Nueva York?",
+                "Pregunta": "Quien es el mayor propietario de Tierra en Nueva York?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1432,7 +1432,7 @@
     "Cultura Americana":{
         "preguntas": [
             {
-                "Pregunta": "En que dia cae Accion de Gracias",
+                "Pregunta": "En que dia se celebra siempre Accion de Gracias",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1480,7 +1480,7 @@
                         "opcion": "Ricky Martin"
                     },
                     {
-                        "opcion": "Justin Beiver"
+                        "opcion": "Justino Castor"
                     },
                     {
                         "opcion": "Prince"
@@ -1526,13 +1526,13 @@
                         "opcion": "Whoopi Goldberg"
                     },
                     {
-                        "opcion": "Barrack Hussein Obama",
+                        "opcion": "Barack Hussein Obama",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "Cada estrella en la bandera Americana es una representacion de...",
+                "Pregunta": "Cada estrella en la bandera Americana es una representacion de",
                 "value": 0,
                 "answered": false,
                 "opciones": [
@@ -1546,7 +1546,7 @@
                         "opcion": "No significa nada las estrellas se ven bonitas"
                     },
                     {
-                        "opcion": "El nuemro de Estados que Actualmente forman parte de Estados Unidos",
+                        "opcion": "El numero de Estados que actualmente conforman los Estados Unidos",
                         "Correcta": true
                     }
                 ]
@@ -1560,13 +1560,13 @@
                         "opcion": "Negros mal agradecidos"
                     },
                     {
-                        "opcion": "El atropellamiento de una adolescente Africoamericana por una mujer blanca"
+                        "opcion": "El atropellamiento de una adolescente Afroamericana por una mujer blanca"
                     },
                     {
-                        "opcion": "El asalto de una familia Africoamericana por un policia blanco"
+                        "opcion": "El asalto de una familia Afroamericana por un policia blanco"
                     },
                     {
-                        "opcion": "La muerte de un joven Africoamericano por un policia que supuestamente pensaba que cargaba un arma",
+                        "opcion": "La muerte de un joven Afroamericano por un policia que supuestamente pensaba que cargaba un arma",
                         "Correcta": true
                     }
                 ]
@@ -1586,7 +1586,7 @@
                         "opcion": "Tienen buen estilo, Adolfo dejame justificarlos"
                     },
                     {
-                        "opcion": "Una vil tonteria",
+                        "opcion": "Un japones que quiere con una libanesa-americana",
                         "Correcta": true
                     }
                 ]
