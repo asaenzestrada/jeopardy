@@ -1224,7 +1224,7 @@
             }
         ]
     },
-    "Cetys1":{
+    "Geografia":{
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
@@ -1428,7 +1428,7 @@
             }
         ]
     },
-    "Cetys2":{
+    "Historia":{
         "preguntas": [
             {
                 "Pregunta": "VBBBkbk",
@@ -1632,204 +1632,204 @@
             }
         ]
     },
-    "Cetys5":{
+    "Cultura Americana":{
         "preguntas": [
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "En que dia cae Accion de Gracias",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Tercer Jueves del mes"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "El dia que yo quiera pavo"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Exactamente la fecha en la que los indions conocieron a los migrantes"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Ultimo Jueves del mes de Noviembre",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Que se celebra el 4 de Julio?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "La revolucion Americana"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Nada soy mexicano y no importa eso"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "EL dai que comenzo la lucha por la independencia de Estados Unidos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Independecia de Estados Unidos",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Quien es el rey del Pop?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Ricky Martin"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Justin Beiver"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Prince"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Michael Jackson",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Quien es la reina del Pop?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Beyonce"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Lady Gaga"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Britney Spears"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Madonna",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Actual Presidente de Estados Unidos",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "George W. Bush"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Mitt Romney"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Whoopi Goldberg"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Barrack Hussein Obama",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cada estrella en la bandera Americana es una representacion de...",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "la cantidad de gente que participo en la lucha por la Independecia originalmente "
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "El numero de presidentes que ha tenido Estados Unidos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "No significa nada las estrellas se ven bonitas"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "El nuemro de Estados que Actualmente forman parte de Estados Unidos",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "La controversia de Ferguson fue causada por",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Negros mal agradecidos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "El atropellamiento de una adolescente Africoamericana por una mujer blanca"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "El asalto de una familia Africoamericana por un policia blanco"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "La muerte de un joven Africoamericano por un policia que supuestamente pensaba que cargaba un arma",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Un hipster es...",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Adolfo hay una explicacion completamente logica"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Son gente muy inteligente, Adolfo se pueden defender"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Tienen buen estilo, Adolfo dejame justificarlos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Una vil tonteria",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Que compañia actualmente tiene los derechos a Marvel Comics?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Warner Bros."
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Paramount"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "WOnka's Chocolate Factory"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Disney",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "El primer parque nacional del mundo?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Great Smoky Mountains"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Yosemite"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "The Grand Canyon"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Yellowstone",
                         "Correcta": true
                     }
                 ]
