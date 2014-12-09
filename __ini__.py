@@ -3,10 +3,11 @@ import Game
 import easygui as eg
 
 
-#Las instrucciones son dinamicas.
+# Las instrucciones son dinamicas.
 welcome = "Bienvenido al Jeopardy mas cool de ICC!"
 welcome += "\n\n\nLas reglas son simples:\n"
-welcome += "\n1.- Ganas llegando a " + str(Game.Game.GameLimit) + " rondas con menos de " + str(Game.Game.ErrorLimit) + " errores acumulados."
+welcome += "\n1.- Ganas llegando a " + str(Game.Game.GameLimit) + " rondas con menos de "
+welcome += str(Game.Game.ErrorLimit) + " errores acumulados."
 welcome += "\n2.- Ganaras el dinero que acumules. Comienzas el juego con: $" + str(player.Player.money) + "."
 welcome += "\n3.- Cada respuesta incorrecta te hace perder $" + str(Game.Game.LooseMoney) + "."
 welcome += "\n4.- Al comenzar el juego te pedira tu nombre."
@@ -16,7 +17,7 @@ welcome += "\n6.- Depues se te mostrara la pregunta y las posibles respuestas, d
 welcome += "\n7.- Despes de seleccionar una respuesta se te indicara la respuesta correcta y el estado de tu juego y cartera en ese momento."
 welcome += "\n8.- Si continuas en el juego se te mostraran de nuevo las categorias para continuar jugando."
 
-eg.msgbox(welcome)
+eg.msgbox(welcome, "Bienvenido al Jeoopardy SuperCool de ICC")
 
 player1 = player.Player
 player1.createUser()
