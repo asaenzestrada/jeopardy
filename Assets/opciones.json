@@ -1836,204 +1836,204 @@
             }
         ]
     },
-    "Cetys9":{
+    "Hisoria":{
         "preguntas": [
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Que habilidad artistica tenia Adolfo Hitler?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Canto"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Teatro urbano"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Eructos superlargos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Pintura",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Asi se le conocia al emperador del Imperio Romano",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Julio"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Romario"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Hercules"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Cesar",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Año en el que se fundo Facebook",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "1975"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "1817"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "204"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "2004",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Batalla que definio el final de la Gegunda Guerra Mundial",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Batalla de Versalles"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Ataque de Londres"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Ataque a Pearl Harbor"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Operacion en Normadia",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Evento que desato la Primera Guerra Mundial",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "La minifalda de la duquesa de Milan"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "La borrachera del Principe Filiberto de Paris"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Los bigotes de Porfirio Diaz"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "El asesinato del Principe Emiliano de Habsburgo",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cuantos nombres tenia Miguel Hidalgo?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "4"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "1"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "2"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "7",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Fue a Platon lo que este a Socrates.",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Eurifanes"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Epicuro de Samos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Hipocrates"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Aristoteles",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Explorador que trazo la ruta de la seda",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": ""
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Julio Cesar"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Cristobal Colon"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Marco Polo",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Juego originario de la cultura Maya",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Rugby"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Raquetbol"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "QUiditch"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Pelota",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Tipo de numeros adoptados casi universalmente",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Mayas"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Chinos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Romanos"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Arabigos",
                         "Correcta": true
                     }
                 ]
