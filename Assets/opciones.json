@@ -1023,201 +1023,201 @@
         "Videojuegos":{
             "preguntas": [
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Compañia cuyos trabajos incluyen: Dragon Age, Mass Effect, Star EWars Knights of the Old Republic, etc.",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Activision"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Square-Enix"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Bethesda"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Bioware",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "MOBA actualmente mas jugado",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Defence of the Ancients"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Defence of the Ancients 2"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Heroes of Newerth"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "League of Legends",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Como se llama la primer instalacion de la franquisia de Elder Scrolls",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Defence of the Ancients"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Defence of the Ancients 2"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Heroes of Newerth"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "League of Legends",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Como se llama la primer instalacion de la franquisia de Elder Scrolls",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Daggerfall"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Morrowind"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Cyrodill"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Arena",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Supuesto antecedente de la serie de Fallout",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Waxworks"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Shadowrun"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Spies and Private Eyers"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Wasteland",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Primer Juego que jugo Adolfo(el miembro mas importante)",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Super Smash Bros."
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "The Legend of Zelda: Ocarina of Time"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Mortal Kombat 4"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Banjo Kazoey",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cual de estas Franquicias no es exclusiva  a Xbox(Excluyendo PC)",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Halo"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Fable"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Crackdown"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Kingdom Under FIre",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Fable contiene muchos chistes en referencia a la siguiente serie",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "SPAM"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Black Adder"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Black Books"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Monty Python's Flying Circus",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Cuantas copias ha vendido Tetris?",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "69 ;)"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "42 500 000"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "63 millones"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "143 millones",
                         "Correcta": true
                     }
                 ]
             },
             {
-                "Pregunta": "VBBBkbk",
+                "Pregunta": "Franquisia favorita de Adolfo (EL integrante que importa)",
                 "value": 0,
                 "answered": false,
                 "opciones": [
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Legend of Zelda"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "Dragon Age"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY"
+                        "opcion": "StarCraft"
                     },
                     {
-                        "opcion": "XYXYXYXYXYXY",
+                        "opcion": "Mass Effect",
                         "Correcta": true
                     }
                 ]
@@ -1428,210 +1428,7 @@
             }
         ]
     },
-    "Historia":{
-        "preguntas": [
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            },
-            {
-                "Pregunta": "VBBBkbk",
-                "value": 0,
-                "answered": false,
-                "opciones": [
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY"
-                    },
-                    {
-                        "opcion": "XYXYXYXYXYXY",
-                        "Correcta": true
-                    }
-                ]
-            }
-        ]
-    },
+    
     "Cultura Americana":{
         "preguntas": [
             {
@@ -1836,7 +1633,7 @@
             }
         ]
     },
-    "Hisoria":{
+    "Historia":{
         "preguntas": [
             {
                 "Pregunta": "Que habilidad artistica tenia Adolfo Hitler?",
